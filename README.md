@@ -1,0 +1,4 @@
+jquery-sliding-panels
+=====================
+
+jSlidingPanels
